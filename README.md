@@ -6,7 +6,7 @@
 
 See [using the api](#using-the-api) for more info.
 
-- [Gehl Public Life Observation](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/data)
+- [Gehl Public Life Observation](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/public-life-observation/data)
 - [Air Measurement](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/air-measurement/data)
 - [Transit Station + Bike Share](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/data)
 - [Transit Route](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/transit-route/data)
@@ -50,7 +50,7 @@ See [using the api](#using-the-api) for more info.
 
 See [using the api](#using-the-api) for more info.
 
-- [Gehl Public Life Observation](https://municipal.systems/v1/municipalities/van-bc/dataTypes/data)
+- [Gehl Public Life Observation](https://municipal.systems/v1/municipalities/van-bc/dataTypes/public-life-observation/data)
 - [Air Measurement](https://municipal.systems/v1/municipalities/van-bc/dataTypes/air-measurement/data)
 - [Transit Station + Bike Share](https://municipal.systems/v1/municipalities/van-bc/dataTypes/data)
 - [Transit Route](https://municipal.systems/v1/municipalities/van-bc/dataTypes/transit-route/data)
@@ -94,7 +94,7 @@ See [using the api](#using-the-api) for more info.
 
 See [using the api](#using-the-api) for more info.
 
-- [Gehl Public Life Observation](https://municipal.systems/v1/municipalities/sf-ca/dataTypes/data)
+- [Gehl Public Life Observation](https://municipal.systems/v1/municipalities/sf-ca/dataTypes/public-life-observation/data)
 - [Air Measurement](https://municipal.systems/v1/municipalities/sf-ca/dataTypes/air-measurement/data)
 - [Transit Station + Bike Share](https://municipal.systems/v1/municipalities/sf-ca/dataTypes/data)
 - [Transit Route](https://municipal.systems/v1/municipalities/sf-ca/dataTypes/transit-route/data)
@@ -138,7 +138,7 @@ See [using the api](#using-the-api) for more info.
 
 See [using the api](#using-the-api) for more info.
 
-- [Gehl Public Life Observation](https://municipal.systems/v1/municipalities/earth/dataTypes/data)
+- [Gehl Public Life Observation](https://municipal.systems/v1/municipalities/earth/dataTypes/public-life-observation/data)
 - [Air Measurement](https://municipal.systems/v1/municipalities/earth/dataTypes/air-measurement/data)
 - [Transit Station + Bike Share](https://municipal.systems/v1/municipalities/earth/dataTypes/data)
 - [Transit Route](https://municipal.systems/v1/municipalities/earth/dataTypes/transit-route/data)
