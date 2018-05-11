@@ -12,7 +12,6 @@ See [using the api](#using-the-api) for more info.
 - [Transit Route](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/transit-route/data)
 - [311 Issue](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/issue/data)
 - [Traffic Jam](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/traffic-jam/data)
-- [Traffic Incident](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/traffic-incident/data)
 
 #### CSV Dump
 
@@ -22,7 +21,6 @@ See [using the api](#using-the-api) for more info.
 - [Transit Route](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/transit-route/export?format=csv&download=true)
 - [311 Issue](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/issue/export?format=csv&download=true)
 - [Traffic Jam](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/traffic-jam/export?format=csv&download=true)
-- [Traffic Incident](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/traffic-incident/export?format=csv&download=true)
 
 #### JSON Dump
 
@@ -32,7 +30,6 @@ See [using the api](#using-the-api) for more info.
 - [Transit Route](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/transit-route/export?format=json&download=true)
 - [311 Issue](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/issue/export?format=json&download=true)
 - [Traffic Jam](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/traffic-jam/export?format=json&download=true)
-- [Traffic Incident](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/traffic-incident/export?format=json&download=true)
 
 #### GeoJSON Dump
 
@@ -42,7 +39,6 @@ See [using the api](#using-the-api) for more info.
 - [Transit Route](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/transit-route/export?format=geojson&download=true)
 - [311 Issue](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/issue/export?format=geojson&download=true)
 - [Traffic Jam](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/traffic-jam/export?format=geojson&download=true)
-- [Traffic Incident](https://municipal.systems/v1/municipalities/sea-wa/dataTypes/traffic-incident/export?format=geojson&download=true)
 
 ## Vancouver, BC 
 
@@ -56,7 +52,6 @@ See [using the api](#using-the-api) for more info.
 - [Transit Route](https://municipal.systems/v1/municipalities/van-bc/dataTypes/transit-route/data)
 - [311 Issue](https://municipal.systems/v1/municipalities/van-bc/dataTypes/issue/data)
 - [Traffic Jam](https://municipal.systems/v1/municipalities/van-bc/dataTypes/traffic-jam/data)
-- [Traffic Incident](https://municipal.systems/v1/municipalities/van-bc/dataTypes/traffic-incident/data)
 
 #### CSV Dump
 
@@ -66,7 +61,6 @@ See [using the api](#using-the-api) for more info.
 - [Transit Route](https://municipal.systems/v1/municipalities/van-bc/dataTypes/transit-route/export?format=csv&download=true)
 - [311 Issue](https://municipal.systems/v1/municipalities/van-bc/dataTypes/issue/export?format=csv&download=true)
 - [Traffic Jam](https://municipal.systems/v1/municipalities/van-bc/dataTypes/traffic-jam/export?format=csv&download=true)
-- [Traffic Incident](https://municipal.systems/v1/municipalities/van-bc/dataTypes/traffic-incident/export?format=csv&download=true)
 
 #### JSON Dump
 
@@ -76,7 +70,6 @@ See [using the api](#using-the-api) for more info.
 - [Transit Route](https://municipal.systems/v1/municipalities/van-bc/dataTypes/transit-route/export?format=json&download=true)
 - [311 Issue](https://municipal.systems/v1/municipalities/van-bc/dataTypes/issue/export?format=json&download=true)
 - [Traffic Jam](https://municipal.systems/v1/municipalities/van-bc/dataTypes/traffic-jam/export?format=json&download=true)
-- [Traffic Incident](https://municipal.systems/v1/municipalities/van-bc/dataTypes/traffic-incident/export?format=json&download=true)
 
 #### GeoJSON Dump
 
@@ -86,7 +79,6 @@ See [using the api](#using-the-api) for more info.
 - [Transit Route](https://municipal.systems/v1/municipalities/van-bc/dataTypes/transit-route/export?format=geojson&download=true)
 - [311 Issue](https://municipal.systems/v1/municipalities/van-bc/dataTypes/issue/export?format=geojson&download=true)
 - [Traffic Jam](https://municipal.systems/v1/municipalities/van-bc/dataTypes/traffic-jam/export?format=geojson&download=true)
-- [Traffic Incident](https://municipal.systems/v1/municipalities/van-bc/dataTypes/traffic-incident/export?format=geojson&download=true)
 
 ## San Francisco, CA
 
