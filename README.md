@@ -1,44 +1,44 @@
 # Gehl / STAE
 
- ## Seattle, WA
+## Seattle, WA
 
-### API URLs
+#### API URLs
 
 See [using the api](#using-the-api) for more info.
 
-[Air Measurement]()
-[Transit Station + Bike Share]()
-[Transit Route]()
-[311 Issue]()
-[Gehl Public Life Observation]()
-[Traffic Jam]()
+- [Air Measurement]()
+- [Transit Station + Bike Share]()
+- [Transit Route]()
+- [311 Issue]()
+- [Gehl Public Life Observation]()
+- [Traffic Jam]()
 
-### CSV Dump
+#### CSV Dump
 
-[Air Measurement]()
-[Transit Station + Bike Share]()
-[Transit Route]()
-[311 Issue]()
-[Gehl Public Life Observation]()
-[Traffic Jam]()
+- [Air Measurement]()
+- [Transit Station + Bike Share]()
+- [Transit Route]()
+- [311 Issue]()
+- [Gehl Public Life Observation]()
+- [Traffic Jam]()
 
-### JSON Dump
+#### JSON Dump
 
-[Air Measurement]()
-[Transit Station + Bike Share]()
-[Transit Route]()
-[311 Issue]()
-[Gehl Public Life Observation]()
-[Traffic Jam]()
+- [Air Measurement]()
+- [Transit Station + Bike Share]()
+- [Transit Route]()
+- [311 Issue]()
+- [Gehl Public Life Observation]()
+- [Traffic Jam]()
 
-### GeoJSON Dump
+#### GeoJSON Dump
 
-[Air Measurement]()
-[Transit Station + Bike Share]()
-[Transit Route]()
-[311 Issue]()
-[Gehl Public Life Observation]()
-[Traffic Jam]()
+- [Air Measurement]()
+- [Transit Station + Bike Share]()
+- [Transit Route]()
+- [311 Issue]()
+- [Gehl Public Life Observation]()
+- [Traffic Jam]()
 
 ## Vancouver, BC 
 ## San Francisco, CA
